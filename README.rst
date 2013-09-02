@@ -33,9 +33,9 @@ Currently unavailable (*until I'm done creating it*).
 
 Requirements
 ------------
-.Net 4 and above...
-WaterButt_ - My Rainwave_ client framework for .Net
-IdSharp_ - .Net ID3 Tagging Library 
+* .Net 4 and above...
+* WaterButt_ - My Rainwave_ client framework for .Net
+* IdSharp_ - .Net ID3 Tagging Library 
 
 Acquisition 
 -----------
